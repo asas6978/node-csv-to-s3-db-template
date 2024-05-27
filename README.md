@@ -46,5 +46,5 @@ Node.js 및 npm이 설치되어 있는 환경이어야 합니다.
   ```
 4. js 파일 실행
   ```sh
-  node your-script-file.js
+  node uploadTemplate.js
   ```
